@@ -1,0 +1,18 @@
+- what's a database?
+a base for structuring data to be set up for easy access
+a program that helps store data and other functionality for adding, quering and modifying data
+
+-what's a relational database?
+it is a database organized according to a relational model
+
+-RDBM systems?
+are essentially software application or system for managing relational databases.
+
+-whats a primary key?
+its a column that uniquely identifies the rows of data un the table . eg: customerNo shows ID
+
+-whats a foreign key?
+its a field or more in a table, that refers to he primary key in another table
+
+-Having Vs Where?
+having clause applies to groups as a whole
